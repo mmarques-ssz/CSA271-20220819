@@ -1,0 +1,7 @@
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\bin\Debug\projSomaPOO.exe.config
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\bin\Debug\projSomaPOO.exe
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\bin\Debug\projSomaPOO.pdb
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\obj\Debug\projSomaPOO.csprojAssemblyReference.cache
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\obj\Debug\projSomaPOO.csproj.CoreCompileInputs.cache
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\obj\Debug\projSomaPOO.exe
+c:\users\aluno\source\repos\projSomaPOO\projSomaPOO\obj\Debug\projSomaPOO.pdb
